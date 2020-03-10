@@ -48,5 +48,6 @@
   "main": "discord_bot.js",
   "scripts": {
     "postinstall": "node ./node_modules/youtube-dl/scripts/download.js"
+    "run": "npm start",
   }
 }
